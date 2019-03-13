@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://deathhealsprimeval.netlify.com/* https://www.deathhealsprimeval.com/:splat 301!
